@@ -1,3 +1,5 @@
+![Demo](demo.png)
+
 # Codex Signal Field (NetLogo ABM)
 
 A minimal agent-based model that illustrates a Codex concept: coherence can persist under noise, but stabilizes most reliably through contact with an Origin tether.
